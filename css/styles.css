@@ -1558,6 +1558,11 @@ hr.fancy::before {
     color       : var(--color-text-dark);
 }
 
+.about-info__text.right-aligned {
+    padding-left: 4rem;
+    margin-left: 0;
+}
+
 .pull-quote {
     position   : relative;
     padding    : 0;
@@ -3233,7 +3238,7 @@ img.u-pull-left {
 }
 
 .intro-social a {
-    color : var(--color-text-light);
+    color : #e9a6c1;
 }
 
 .intro-social a:focus,
@@ -3521,7 +3526,7 @@ img.u-pull-left {
     line-height    : var(--vspace-0_75);
     text-transform : uppercase;
     letter-spacing : .2em;
-    color          : var(--color-text-light);
+    color          : whitesmoke;
     margin-top     : -.2rem;
 }
 
