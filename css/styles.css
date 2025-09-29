@@ -4068,16 +4068,16 @@
  }
  
  .contact-links,
- .contact-social {
-     font-size   : var(--text-md);
-     font-weight : 300;
-     line-height : var(--vspace-1_25);
-     color       : var(--color-text-light);
- }
+.contact-social {
+    font-size   : var(--text-md);
+    font-weight : 300;
+    line-height : var(--vspace-1_25);
+    color       : #FCA5A5   /* Gold text */
+}
  
  .contact-links a,
  .contact-social a {
-     color : var(--color-text-light);
+     color :#FCA5A5 ;
  }
  
  .contact-links a:focus,
